@@ -2,7 +2,7 @@
 title: Spatial Differences in surface temperature mapping using LANDSAT vs. weather
   stations
 author: "Allison Leet"
-subtitle: 'Case Study: Phoenix, AZ'
+subtitle: 'Case Study: Phoenix, AZ' #cool
 ---
 
 # Introduction

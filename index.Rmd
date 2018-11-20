@@ -92,4 +92,8 @@ plot(Tmax_PHX_mutate$tmax.date, Tmax_PHX_mutate$tmax,
 What have you learned?  Are there any broader implications?
 
 # References
+ Tried to knit but got this error "Error in contrib.url(repos, "source") : 
+  trying to use CRAN without setting a mirror
+Calls: <Anonymous> ... withVisible -> eval -> eval -> install.packages -> contrib.url
 
+Execution halted)
